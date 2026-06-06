@@ -44,7 +44,11 @@ g++ main.cpp Sudoku.cpp -o sudoku
 
 ### Run
 ```bash
-./sudoku.exe(Windows) OR ./sudoku(Mac/Linux)
+Windows (CMD/PowerShell):
+sudoku.exe
+
+Linux/macOS:
+./sudoku
 ```
 
 ---
